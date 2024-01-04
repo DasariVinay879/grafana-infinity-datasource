@@ -1,4 +1,4 @@
-{
+[{
   "correlationId": "1234567890-81858a60-a339-11ee-9247-e21f094f1f9d",
   "message": "orderacknowledge Start",
   "tracePoint": "START",
@@ -164,4 +164,4 @@
   "applicationVersion": "v1",
   "environment": "prod",
   "threadName": "[MuleRuntime].uber.21799: [abc-na-order-prc].orderacknowlegeflow.BLOCKING @6601e42"
-}
+}]
